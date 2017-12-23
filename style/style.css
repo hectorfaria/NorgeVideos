@@ -1,0 +1,60 @@
+.bgclr {
+  background: url("https://i.pinimg.com/originals/9e/93/5f/9e935f2e793409eae923780e1d70f842.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+.videochannel {
+  color: grey;
+  font-size: 13px;
+}
+
+.videotitle {
+  font-weight: bolder;
+  font-size: 15px;
+}
+
+.img-description {
+  border-radius: 50%;
+}
+
+.navbar {
+  margin-bottom: 10px;
+}
+
+.fa-search {
+  color: black;
+}
+
+.h1 {
+  display: block;
+  text-align: center;
+}
+
+
+.form-control1 {
+
+  width: 50%;
+  margin: 5px;
+  height: 35px;
+  border-radius: 7px;
+  color: black;
+}
+
+.video-detail  {
+  margin-top: 10px;
+  padding: 10px;
+  border: 1px solid grey;
+  border-radius: 4px;
+  background-color: white;
+}
+
+.list-group-item {
+  cursor: pointer;
+}
+
+.list-group-item:hover {
+  background-color: rgb(219, 219, 219);
+
+}
